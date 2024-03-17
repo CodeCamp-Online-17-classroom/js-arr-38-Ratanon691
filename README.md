@@ -1,14 +1,14 @@
-# js-lab-123
-### Lab123 Array: array result9
+# js-lab-124
+### Lab124 Array: array result10
 ให้สร้าง array result ให้ได้ผลลัพธ์ตามเงื่อนไขที่กำหนด โดยใช้ arr.filter
 
 ```JavaScript
-const array = [9, 17, 23, 5];
-// ค่าที่มากกว่า 10
+const array = ['apple', 'banana', 'orange', 'pineapple', 'watermeon'];
+// ค่าที่มีตัวอักษรมากกว่า 6 ตัว
 
-const array = [1, 2, 3, 4];
-// ค่าที่เป็นเลขคี่
+const array = [1, -3, 2, 8, -4, 5];
+// ค่าที่เป็นเลขบวก
 
-const array = [1, '1', 2, {}];
-// ค่าที่ประเภทข้อมูลเป็น Number
+const array = [1, 3, 4, 5, 6, 7, 8];
+// ค่าที่หาร 3 ลงตัว
 ```
